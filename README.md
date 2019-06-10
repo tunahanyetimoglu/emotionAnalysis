@@ -27,6 +27,6 @@ Güz ve Bahar dönemleri boyunca yapılan projenin kaynak kodları ve raporu yer
 
 ## Katkıda Bulunanlar
 
-[@tunahanyetimoglu](https://github.com/tunahanyetimoglu) - Tunahan YETİMOĞLU
-[@erdemsahin](https://github.com/erdemsahin) - Erdem ŞAHİN
-[@usalman](https://github.com/usalman) - Umit SALMAN
+* [@tunahanyetimoglu](https://github.com/tunahanyetimoglu) - Tunahan YETİMOĞLU
+* [@erdemsahin](https://github.com/erdemsahin) - Erdem ŞAHİN
+* [@usalman](https://github.com/usalman) - Umit SALMAN
